@@ -143,10 +143,4 @@ It helps identify strengths, weaknesses, and overall academic patterns effective
 
 ---
 
-## ✨ Author
-**Roll No:** 23BAD078
-
----
-
-> 📌 *Note:* Ensure the CSV file columns match the variable names used in the script for error-free execution.
 
